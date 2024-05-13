@@ -4513,6 +4513,7 @@ guanj65
 - [Nkatha](https://github.com/Nkathaaa)
 - [kemelman](https://github.com/kemelman)
 - [Ethan Coco](https://github.com/cocoethan)
+  [Edward](https://github.com/Edward458)
 - [whangho](https://github.com/whangho)
 - [Jackson Perry](https://github.com/jackattack825)
 - [Obed Sachez](https://github.com/ObedSAGA)
